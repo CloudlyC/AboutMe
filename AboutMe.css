@@ -6,3 +6,12 @@ h1{
 h4{
     border : 2px dotted rgb(19, 131, 236);
 }
+li{
+    font-family: Arial, Helvetica, sans-serif
+}
+#font_li{
+    font-family: 'Courier New', Courier, monospace
+}
+#font_c{
+    font-family: cursive 
+}
